@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Festival Forma</title>
+  <desc id="desc">Composición abstracta con formas geométricas para una portada cultural.</desc>
+  <rect width="1200" height="800" fill="#efe8dc"/>
+  <rect x="80" y="80" width="500" height="640" fill="#111111"/>
+  <circle cx="835" cy="280" r="190" fill="#d95d39"/>
+  <rect x="700" y="510" width="390" height="110" fill="#1c4d9e"/>
+  <path d="M720 670 L1090 670 L905 360 Z" fill="#f2c94c"/>
+</svg>
