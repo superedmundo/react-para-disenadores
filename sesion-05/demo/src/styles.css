@@ -1,0 +1,16 @@
+.pagina {
+  min-height: 100vh;
+  background: #efe8dc;
+  color: #111111;
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+.encabezado { max-width: 1080px; margin: 0 auto 40px; }
+.encabezado h1 { font-size: 56px; margin: 0 0 12px; }
+.galeria { max-width: 1080px; margin: 0 auto; display: flex; gap: 24px; align-items: stretch; }
+.tarjeta { width: 280px; background: #ffffff; padding: 24px; }
+.tarjeta img { width: 100%; margin-bottom: 20px; }
+.categoria { color: #1c4d9e; font-size: 14px; font-weight: 700; }
+.tarjeta h2 { font-size: 30px; margin: 8px 0 12px; }
+.acciones { display: flex; gap: 12px; margin-top: 32px; }
+.boton { background: #111111; color: #ffffff; border: 0; border-radius: 24px; padding: 12px 20px; font-weight: 700; }
