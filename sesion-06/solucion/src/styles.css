@@ -1,0 +1,14 @@
+* { box-sizing: border-box; }
+body { margin: 0; }
+.pagina { min-height: 100vh; background: #efe8dc; color: #111111; font-family: Arial, sans-serif; }
+.navbar, .hero, .galeria, .footer { max-width: 1080px; margin: 0 auto; }
+.navbar { display: flex; justify-content: space-between; align-items: center; padding: 24px 32px; }
+.navbar p { font-weight: 700; }
+.hero { display: flex; align-items: center; gap: 40px; padding: 48px 32px; background: #f2c94c; }
+.hero img { width: 420px; max-width: 45%; }
+.hero h1 { font-size: 64px; margin: 8px 0 16px; }
+.galeria { display: flex; gap: 24px; padding: 48px 32px; }
+.tarjeta { width: 30%; background: #ffffff; padding: 24px; }
+.tarjeta h2 { font-size: 28px; margin: 8px 0; }
+.categoria { color: #1c4d9e; font-weight: 700; }
+.footer { padding: 32px; border-top: 2px solid #111111; }
