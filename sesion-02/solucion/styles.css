@@ -1,0 +1,46 @@
+.pagina {
+  background: #13231d;
+  color: #f7f2e8;
+  font-family: Arial, sans-serif;
+}
+
+.portada {
+  width: 900px;
+  background: #1c4d9e;
+  text-align: center;
+}
+
+.portada-imagen {
+  width: 600px;
+  height: 400px;
+  border-radius: 0;
+}
+
+.fecha {
+  color: #f2c94c;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.titulo {
+  color: #ffffff;
+  font-size: 88px;
+  font-weight: 700;
+}
+
+.descripcion {
+  color: #f7f2e8;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.boton {
+  width: 200px;
+  height: 52px;
+  background: #f2c94c;
+  color: #111111;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 26px;
+}
