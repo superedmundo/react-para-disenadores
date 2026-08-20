@@ -1,0 +1,19 @@
+.pagina { background: #efe8dc; color: #111111; font-family: Arial, sans-serif; margin: 0; padding: 32px; }
+.navbar { max-width: 1100px; margin: 0 auto 48px; }
+.logo { font-size: 20px; font-weight: 700; margin: 0; }
+.menu { gap: 24px; }
+.menu a { color: #111111; }
+main { max-width: 1100px; margin: 0 auto; }
+.hero { background: #f2c94c; padding: 32px; margin-bottom: 48px; }
+.hero img { width: 420px; max-width: 100%; }
+.hero-texto { max-width: 480px; }
+.hero-texto h1 { font-size: 64px; margin: 8px 0 16px; }
+.fecha { color: #1c4d9e; font-weight: 700; }
+.galeria {
+  gap: 24px;
+  /* 1. Activa Flexbox aquí. */
+  /* 2. Elige row o column. */
+  /* 3. Prueba justify-content o align-items. */
+}
+.tarjeta { background: #ffffff; padding: 24px; width: 260px; }
+.tarjeta h2 { font-size: 28px; margin: 8px 0; }
