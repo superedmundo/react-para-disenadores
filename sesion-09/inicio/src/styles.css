@@ -1,0 +1,13 @@
+* { box-sizing: border-box; }
+body { margin: 0; }
+button { font: inherit; }
+.pagina { min-height: 100vh; background: #efe8dc; color: #111111; font-family: Arial, sans-serif; padding: 40px; }
+.encabezado { max-width: 1080px; margin: 0 auto 40px; }
+.encabezado h1 { max-width: 760px; font-size: 56px; margin: 0 0 12px; }
+.comparacion { max-width: 1080px; margin: 0 auto; display: flex; gap: 24px; align-items: flex-start; }
+.panel { width: 420px; background: #ffffff; padding: 28px; border-radius: 24px; }
+.etiqueta { color: #1c4d9e; font-size: 14px; font-weight: 700; }
+.panel h2 { font-size: 32px; margin: 8px 0 20px; }
+.panel button { background: #111111; color: #ffffff; border: 0; border-radius: 24px; padding: 12px 18px; }
+.detalle { margin-top: 24px; padding-top: 20px; border-top: 1px solid #c8c0b5; }
+.detalle p { margin: 6px 0; }
