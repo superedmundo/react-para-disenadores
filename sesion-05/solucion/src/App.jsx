@@ -1,3 +1,5 @@
+import React from "react";
+
 function Tarjeta() {
   return (
     <article className="tarjeta">
