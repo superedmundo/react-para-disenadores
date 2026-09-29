@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
 const proyectos = [
   { id: 1, titulo: "Materia", categoria: "Exposición" },
