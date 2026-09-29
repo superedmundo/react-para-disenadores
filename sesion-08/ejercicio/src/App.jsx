@@ -1,3 +1,5 @@
+import React from "react";
+
 const proyectos = [
   { id: 1, titulo: "Materia", categoria: "Exposición" },
   { id: 2, titulo: "Territorio", categoria: "Fotografía" },
