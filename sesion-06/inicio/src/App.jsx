@@ -1,3 +1,5 @@
+import React from "react";
+
 function Navbar() {
   return <nav className="navbar"><p>Festival Forma</p><p>Programa · Archivo · Visita</p></nav>;
 }
